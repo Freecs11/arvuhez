@@ -1,0 +1,1611 @@
+.websiteBody {
+    margin: 0;
+}
+
+@media screen and (min-width:0px) and (max-width:450px) {
+    .Page {
+        display: block;
+        margin: auto;
+        width: 100%;
+        height: auto;
+        pointer-events: auto;
+    }
+    .Page-outer {
+        pointer-events: none;
+        z-index: 1;
+    }
+    .Frame {
+        position: relative;
+        z-index: 37;
+        pointer-events: none;
+        width: 100%;
+        margin-left: 0;
+        height: 2022px;
+        min-width: 200px;
+        max-width: 400px;
+        margin: auto;
+        background-color: rgba(255, 255, 255, 1);
+        overflow: hidden;
+    }
+    .Frame-outer {
+        pointer-events: none;
+        z-index: 37;
+    }
+    .IMAGE-1 {
+        position: relative;
+        z-index: 47;
+        pointer-events: none;
+        margin-left: 46px;
+        width: 74px;
+        min-width: 74px;
+        height: 28px;
+        margin-top: 20px;
+        margin-bottom: 1974px;
+        min-height: 28px;
+        content: url(../assets/images/article1/IMAGE_1.png?tid=1645035489057);
+    }
+    .IMAGE-1-outer {
+        pointer-events: none;
+        z-index: 47;
+        position: relative;
+        display: flex;
+    }
+    .contact-us {
+        position: relative;
+        z-index: 51;
+        pointer-events: auto;
+        cursor: pointer;
+        min-width: 39px;
+        min-height: 22px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 5px;
+        line-height: 12px;
+    }
+    .contact-us-outer {
+        pointer-events: none;
+        z-index: 51;
+        position: relative;
+        display: flex;
+    }
+    .contact-us-url {
+        text-decoration: none;
+        margin-left: 316px;
+        width: 39px;
+        margin-top: -1996px;
+        margin-bottom: 1974px;
+    }
+    .PODCASTS {
+        position: relative;
+        z-index: 50;
+        pointer-events: auto;
+        cursor: pointer;
+        min-width: 37px;
+        min-height: 22px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 5px;
+        line-height: 12px;
+    }
+    .PODCASTS-outer {
+        pointer-events: none;
+        z-index: 50;
+        position: relative;
+        display: flex;
+    }
+    .PODCASTS-url {
+        text-decoration: none;
+        margin-left: 275px;
+        width: 37px;
+        margin-top: -1996px;
+        margin-bottom: 1974px;
+    }
+    .BLOG {
+        position: relative;
+        z-index: 49;
+        pointer-events: auto;
+        cursor: pointer;
+        min-width: 20px;
+        min-height: 22px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 5px;
+        line-height: 12px;
+    }
+    .BLOG-outer {
+        pointer-events: none;
+        z-index: 49;
+        position: relative;
+        display: flex;
+    }
+    .BLOG-url {
+        text-decoration: none;
+        margin-left: 251px;
+        width: 20px;
+        margin-top: -1996px;
+        margin-bottom: 1974px;
+    }
+    .Home {
+        position: relative;
+        z-index: 48;
+        pointer-events: auto;
+        cursor: pointer;
+        min-width: 25px;
+        min-height: 22px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 5px;
+        line-height: 12px;
+    }
+    .Home-outer {
+        pointer-events: none;
+        z-index: 48;
+        position: relative;
+        display: flex;
+    }
+    .Home-url {
+        text-decoration: none;
+        margin-left: 222px;
+        width: 25px;
+        margin-top: -1996px;
+        margin-bottom: 1974px;
+    }
+    .Frame-2 {
+        position: relative;
+        z-index: 52;
+        pointer-events: none;
+        margin-left: 68px;
+        width: 263px;
+        min-width: 263px;
+        height: 272px;
+        margin-top: -1956px;
+        margin-bottom: 1684px;
+        min-height: 272px;
+        overflow: hidden;
+    }
+    .Frame-2-outer {
+        pointer-events: none;
+        z-index: 52;
+        position: relative;
+        display: flex;
+    }
+    .Positive-thinking-br {
+        position: relative;
+        z-index: 53;
+        pointer-events: none;
+        margin-left: 31px;
+        width: 232px;
+        min-width: 232px;
+        height: 244px;
+        margin-top: 27px;
+        margin-bottom: 1px;
+        min-height: 244px;
+        content: url(../assets/images/article1/Positive_thinking_bro_1.png?tid=1645035489057);
+    }
+    .Positive-thinking-br-outer {
+        pointer-events: none;
+        z-index: 53;
+        position: relative;
+        display: flex;
+    }
+    .These-athletes-are-p-1 {
+        position: relative;
+        z-index: 40;
+        pointer-events: none;
+        margin-left: 29px;
+        width: 343px;
+        min-width: 343px;
+        margin-top: -1622px;
+        margin-bottom: 1514px;
+        min-height: 108px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 55, 100, 1);
+        font-style: normal;
+        font-family: Roboto;
+        font-weight: 400;
+        font-size: 32px;
+        letter-spacing: 0.575999984741211px;
+        line-height: 54px;
+    }
+    .These-athletes-are-p-1-outer {
+        pointer-events: none;
+        z-index: 40;
+        position: relative;
+        display: flex;
+    }
+    .September-15--2021 {
+        position: relative;
+        z-index: 41;
+        pointer-events: none;
+        margin-left: 136px;
+        width: 129px;
+        min-width: 129px;
+        margin-top: -1487px;
+        margin-bottom: 1460px;
+        min-height: 27px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 10px;
+        letter-spacing: 0.15px;
+        line-height: 27px;
+    }
+    .September-15--2021-outer {
+        pointer-events: none;
+        z-index: 41;
+        position: relative;
+        display: flex;
+    }
+    .IMAGE-2 {
+        position: relative;
+        z-index: 38;
+        pointer-events: none;
+        margin-left: 20px;
+        width: 360px;
+        min-width: 360px;
+        height: 270px;
+        margin-top: -1379px;
+        margin-bottom: 1109px;
+        min-height: 270px;
+        content: url(../assets/images/article1/IMAGE_2.png?tid=1645035489057);
+    }
+    .IMAGE-2-outer {
+        pointer-events: none;
+        z-index: 38;
+        position: relative;
+        display: flex;
+    }
+    .Linsday-Stalzer {
+        position: relative;
+        z-index: 42;
+        pointer-events: none;
+        margin-left: 20px;
+        width: 125px;
+        min-width: 125px;
+        margin-top: -1109px;
+        margin-bottom: 1082px;
+        min-height: 27px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 16px;
+        letter-spacing: 0.048000001907348634px;
+        line-height: 27px;
+    }
+    .Linsday-Stalzer-outer {
+        pointer-events: none;
+        z-index: 42;
+        position: relative;
+        display: flex;
+    }
+    .These-athletes-are-p {
+        position: relative;
+        z-index: 43;
+        pointer-events: none;
+        margin-left: 20px;
+        width: 314px;
+        min-width: 314px;
+        margin-top: -1068px;
+        margin-bottom: 962px;
+        min-height: 106px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(216, 89, 53, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 35.20000076293945px;
+    }
+    .These-athletes-are-p-outer {
+        pointer-events: none;
+        z-index: 43;
+        position: relative;
+        display: flex;
+    }
+    .Athletes-Unlimited-l {
+        position: relative;
+        z-index: 44;
+        pointer-events: none;
+        margin-left: 20px;
+        width: 358px;
+        min-width: 358px;
+        margin-top: -900px;
+        margin-bottom: 684px;
+        min-height: 216px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 16px;
+        letter-spacing: 0.048000001907348634px;
+        line-height: 27px;
+    }
+    .Athletes-Unlimited-l-outer {
+        pointer-events: none;
+        z-index: 44;
+        position: relative;
+        display: flex;
+    }
+    .This-initiative-allo {
+        position: relative;
+        z-index: 45;
+        pointer-events: none;
+        margin-left: 20px;
+        width: 360px;
+        min-width: 360px;
+        margin-top: -669px;
+        margin-bottom: 480px;
+        min-height: 189px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 16px;
+        letter-spacing: 0.048000001907348634px;
+        line-height: 27px;
+    }
+    .This-initiative-allo-outer {
+        pointer-events: none;
+        z-index: 45;
+        position: relative;
+        display: flex;
+    }
+    .as-they-play-for-the {
+        position: relative;
+        z-index: 46;
+        pointer-events: none;
+        margin-left: 22px;
+        width: 355px;
+        min-width: 355px;
+        margin-top: -410px;
+        margin-bottom: 329px;
+        min-height: 81px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 24px;
+        letter-spacing: 0.07200000286102295px;
+        line-height: 27px;
+    }
+    .as-they-play-for-the-outer {
+        pointer-events: none;
+        z-index: 46;
+        position: relative;
+        display: flex;
+    }
+    .Rectangle-1 {
+        position: relative;
+        z-index: 39;
+        pointer-events: none;
+        margin-left: 20px;
+        width: 360px;
+        min-width: 360px;
+        height: 1px;
+        margin-top: -258px;
+        margin-bottom: 257px;
+        min-height: 1px;
+        background-color: rgba(204, 204, 204, 1);
+    }
+    .Rectangle-1-outer {
+        pointer-events: none;
+        z-index: 39;
+        position: relative;
+        display: flex;
+    }
+    .Rectangle {
+        position: relative;
+        z-index: 54;
+        pointer-events: none;
+        margin-left: -420px;
+        width: 1239px;
+        min-width: 1239px;
+        height: 81px;
+        margin-top: -81px;
+        margin-bottom: 0px;
+        min-height: 81px;
+        background-color: rgba(231, 235, 238, 1);
+    }
+    .Rectangle-outer {
+        pointer-events: none;
+        z-index: 54;
+        position: relative;
+        display: flex;
+    }
+    .IMAGE {
+        position: relative;
+        z-index: 55;
+        pointer-events: none;
+        margin-left: 135px;
+        width: 138px;
+        min-width: 138px;
+        height: 59px;
+        margin-top: -70px;
+        margin-bottom: 11px;
+        min-height: 59px;
+        content: url(../assets/images/article1/IMAGE.png?tid=1645035489057);
+    }
+    .IMAGE-outer {
+        pointer-events: none;
+        z-index: 55;
+        position: relative;
+        display: flex;
+    }
+    .Frame-1 {
+        display: none;
+    }
+    .Frame-1-outer {
+        display: none;
+    }
+    .IMAGE-4 {
+        display: none;
+    }
+    .IMAGE-4-outer {
+        display: none;
+    }
+    .contact-us-1 {
+        display: none;
+    }
+    .contact-us-1-outer {
+        display: none;
+    }
+    .PODCASTS-1 {
+        display: none;
+    }
+    .PODCASTS-1-outer {
+        display: none;
+    }
+    .BLOG-1 {
+        display: none;
+    }
+    .BLOG-1-outer {
+        display: none;
+    }
+    .Home-1 {
+        display: none;
+    }
+    .Home-1-outer {
+        display: none;
+    }
+    .Frame-1-1 {
+        display: none;
+    }
+    .Frame-1-1-outer {
+        display: none;
+    }
+    .Positive-thinking-br-1 {
+        display: none;
+    }
+    .Positive-thinking-br-1-outer {
+        display: none;
+    }
+    .These-athletes-are-p-3 {
+        display: none;
+    }
+    .These-athletes-are-p-3-outer {
+        display: none;
+    }
+    .September-15--2021-1 {
+        display: none;
+    }
+    .September-15--2021-1-outer {
+        display: none;
+    }
+    .IMAGE-5 {
+        display: none;
+    }
+    .IMAGE-5-outer {
+        display: none;
+    }
+    .Linsday-Stalzer-1 {
+        display: none;
+    }
+    .Linsday-Stalzer-1-outer {
+        display: none;
+    }
+    .These-athletes-are-p-2 {
+        display: none;
+    }
+    .These-athletes-are-p-2-outer {
+        display: none;
+    }
+    .Athletes-Unlimited-l-1 {
+        display: none;
+    }
+    .Athletes-Unlimited-l-1-outer {
+        display: none;
+    }
+    .This-initiative-allo-1 {
+        display: none;
+    }
+    .This-initiative-allo-1-outer {
+        display: none;
+    }
+    .Lorem-ipsum-dolor-si {
+        display: none;
+    }
+    .Lorem-ipsum-dolor-si-outer {
+        display: none;
+    }
+    .as-they-play-for-the-1 {
+        display: none;
+    }
+    .as-they-play-for-the-1-outer {
+        display: none;
+    }
+    .Rectangle-8 {
+        display: none;
+    }
+    .Rectangle-8-outer {
+        display: none;
+    }
+    .Rectangle-7 {
+        display: none;
+    }
+    .Rectangle-7-outer {
+        display: none;
+    }
+    .IMAGE-3 {
+        display: none;
+    }
+    .IMAGE-3-outer {
+        display: none;
+    }
+    .Frame-7 {
+        display: none;
+    }
+    .Frame-7-outer {
+        display: none;
+    }
+    .Vector-4 {
+        display: none;
+    }
+    .Vector-4-outer {
+        display: none;
+    }
+    .Frame-4 {
+        display: none;
+    }
+    .Frame-4-outer {
+        display: none;
+    }
+    .Vector-1 {
+        display: none;
+    }
+    .Vector-1-outer {
+        display: none;
+    }
+    .Frame-5 {
+        display: none;
+    }
+    .Frame-5-outer {
+        display: none;
+    }
+    .Vector-2 {
+        display: none;
+    }
+    .Vector-2-outer {
+        display: none;
+    }
+    .Frame-6 {
+        display: none;
+    }
+    .Frame-6-outer {
+        display: none;
+    }
+    .Vector-3 {
+        display: none;
+    }
+    .Vector-3-outer {
+        display: none;
+    }
+    .Frame-3 {
+        display: none;
+    }
+    .Frame-3-outer {
+        display: none;
+    }
+    .Vector {
+        display: none;
+    }
+    .Vector-outer {
+        display: none;
+    }
+    .Rectangle-2 {
+        display: none;
+    }
+    .Rectangle-2-outer {
+        display: none;
+    }
+    .Rectangle-3 {
+        display: none;
+    }
+    .Rectangle-3-outer {
+        display: none;
+    }
+    .Rectangle-4 {
+        display: none;
+    }
+    .Rectangle-4-outer {
+        display: none;
+    }
+    .Rectangle-5 {
+        display: none;
+    }
+    .Rectangle-5-outer {
+        display: none;
+    }
+    .Rectangle-6 {
+        display: none;
+    }
+    .Rectangle-6-outer {
+        display: none;
+    }
+}
+
+@media screen and (min-width:450px) {
+    .Page {
+        display: block;
+        margin: auto;
+        width: 100%;
+        height: auto;
+        pointer-events: auto;
+    }
+    .Page-outer {
+        pointer-events: none;
+        z-index: 1;
+    }
+    .Frame {
+        display: none;
+    }
+    .Frame-outer {
+        display: none;
+    }
+    .IMAGE-1 {
+        display: none;
+    }
+    .IMAGE-1-outer {
+        display: none;
+    }
+    .contact-us {
+        display: none;
+    }
+    .contact-us-outer {
+        display: none;
+    }
+    .PODCASTS {
+        display: none;
+    }
+    .PODCASTS-outer {
+        display: none;
+    }
+    .BLOG {
+        display: none;
+    }
+    .BLOG-outer {
+        display: none;
+    }
+    .Home {
+        display: none;
+    }
+    .Home-outer {
+        display: none;
+    }
+    .Frame-2 {
+        display: none;
+    }
+    .Frame-2-outer {
+        display: none;
+    }
+    .Positive-thinking-br {
+        display: none;
+    }
+    .Positive-thinking-br-outer {
+        display: none;
+    }
+    .These-athletes-are-p-1 {
+        display: none;
+    }
+    .These-athletes-are-p-1-outer {
+        display: none;
+    }
+    .September-15--2021 {
+        display: none;
+    }
+    .September-15--2021-outer {
+        display: none;
+    }
+    .IMAGE-2 {
+        display: none;
+    }
+    .IMAGE-2-outer {
+        display: none;
+    }
+    .Linsday-Stalzer {
+        display: none;
+    }
+    .Linsday-Stalzer-outer {
+        display: none;
+    }
+    .These-athletes-are-p {
+        display: none;
+    }
+    .These-athletes-are-p-outer {
+        display: none;
+    }
+    .Athletes-Unlimited-l {
+        display: none;
+    }
+    .Athletes-Unlimited-l-outer {
+        display: none;
+    }
+    .This-initiative-allo {
+        display: none;
+    }
+    .This-initiative-allo-outer {
+        display: none;
+    }
+    .as-they-play-for-the {
+        display: none;
+    }
+    .as-they-play-for-the-outer {
+        display: none;
+    }
+    .Rectangle-1 {
+        display: none;
+    }
+    .Rectangle-1-outer {
+        display: none;
+    }
+    .Rectangle {
+        display: none;
+    }
+    .Rectangle-outer {
+        display: none;
+    }
+    .IMAGE {
+        display: none;
+    }
+    .IMAGE-outer {
+        display: none;
+    }
+    .Frame-1 {
+        position: relative;
+        z-index: 2;
+        pointer-events: none;
+        width: 100%;
+        margin-left: 0;
+        height: 2504px;
+        min-width: 450px;
+        max-width: 1200px;
+        margin: auto;
+        background-color: rgba(255, 255, 255, 1);
+        overflow: hidden;
+    }
+    .Frame-1-outer {
+        pointer-events: none;
+        z-index: 2;
+    }
+    .IMAGE-4 {
+        position: relative;
+        z-index: 15;
+        pointer-events: none;
+        margin-left: 100px;
+        width: 130px;
+        min-width: 130px;
+        height: 55px;
+        margin-top: 35px;
+        margin-bottom: 2414px;
+        min-height: 55px;
+        content: url(../assets/images/article1/IMAGE_4.png?tid=1645035489057);
+    }
+    .IMAGE-4-outer {
+        pointer-events: none;
+        z-index: 15;
+        position: relative;
+        display: flex;
+    }
+    .contact-us-1 {
+        position: relative;
+        z-index: 36;
+        pointer-events: auto;
+        cursor: pointer;
+        min-width: 85px;
+        min-height: 12px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .contact-us-1-outer {
+        pointer-events: none;
+        z-index: 36;
+        position: relative;
+        display: flex;
+    }
+    .contact-us-1-url {
+        text-decoration: none;
+        margin-left: 952px;
+        width: 85px;
+        margin-top: -2449px;
+        margin-bottom: 2437px;
+    }
+    .PODCASTS-1 {
+        position: relative;
+        z-index: 35;
+        pointer-events: auto;
+        cursor: pointer;
+        min-width: 69px;
+        min-height: 12px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .PODCASTS-1-outer {
+        pointer-events: none;
+        z-index: 35;
+        position: relative;
+        display: flex;
+    }
+    .PODCASTS-1-url {
+        text-decoration: none;
+        margin-left: 839px;
+        width: 69px;
+        margin-top: -2449px;
+        margin-bottom: 2437px;
+    }
+    .BLOG-1 {
+        position: relative;
+        z-index: 17;
+        pointer-events: auto;
+        cursor: pointer;
+        min-width: 37px;
+        min-height: 12px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .BLOG-1-outer {
+        pointer-events: none;
+        z-index: 17;
+        position: relative;
+        display: flex;
+    }
+    .BLOG-1-url {
+        text-decoration: none;
+        margin-left: 758px;
+        width: 37px;
+        margin-top: -2449px;
+        margin-bottom: 2437px;
+    }
+    .Home-1 {
+        position: relative;
+        z-index: 16;
+        pointer-events: auto;
+        cursor: pointer;
+        min-width: 48px;
+        min-height: 12px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .Home-1-outer {
+        pointer-events: none;
+        z-index: 16;
+        position: relative;
+        display: flex;
+    }
+    .Home-1-url {
+        text-decoration: none;
+        margin-left: 666px;
+        width: 48px;
+        margin-top: -2449px;
+        margin-bottom: 2437px;
+    }
+    .Frame-1-1 {
+        position: relative;
+        z-index: 13;
+        pointer-events: none;
+        margin-left: 394px;
+        width: 484px;
+        min-width: 484px;
+        height: 498px;
+        margin-top: -2304px;
+        margin-bottom: 1806px;
+        min-height: 498px;
+        overflow: hidden;
+    }
+    .Frame-1-1-outer {
+        pointer-events: none;
+        z-index: 13;
+        position: relative;
+        display: flex;
+    }
+    .Positive-thinking-br-1 {
+        position: relative;
+        z-index: 14;
+        pointer-events: none;
+        margin-left: 0px;
+        width: 483px;
+        min-width: 483px;
+        height: 508px;
+        margin-top: -10px;
+        margin-bottom: 0px;
+        min-height: 508px;
+        content: url(../assets/images/article1/Positive_thinking_bro_1_1.png?tid=1645035489057);
+    }
+    .Positive-thinking-br-1-outer {
+        pointer-events: none;
+        z-index: 14;
+        position: relative;
+        display: flex;
+    }
+    .These-athletes-are-p-3 {
+        position: relative;
+        z-index: 5;
+        pointer-events: none;
+        margin-left: 277px;
+        width: 646px;
+        min-width: 646px;
+        margin-top: -1742px;
+        margin-bottom: 1688px;
+        min-height: 54px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 55, 100, 1);
+        font-style: normal;
+        font-family: Roboto;
+        font-weight: 400;
+        font-size: 32px;
+        letter-spacing: 0.575999984741211px;
+        line-height: 54px;
+    }
+    .These-athletes-are-p-3-outer {
+        pointer-events: none;
+        z-index: 5;
+        position: relative;
+        display: flex;
+    }
+    .September-15--2021-1 {
+        position: relative;
+        z-index: 6;
+        pointer-events: none;
+        margin-left: 536px;
+        width: 129px;
+        min-width: 129px;
+        margin-top: -1658px;
+        margin-bottom: 1631px;
+        min-height: 27px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 10px;
+        letter-spacing: 0.15px;
+        line-height: 27px;
+    }
+    .September-15--2021-1-outer {
+        pointer-events: none;
+        z-index: 6;
+        position: relative;
+        display: flex;
+    }
+    .IMAGE-5 {
+        position: relative;
+        z-index: 3;
+        pointer-events: none;
+        margin-left: 207px;
+        width: 786px;
+        min-width: 786px;
+        height: 590px;
+        margin-top: -1533px;
+        margin-bottom: 943px;
+        min-height: 590px;
+        content: url(../assets/images/article1/IMAGE_5.png?tid=1645035489057);
+    }
+    .IMAGE-5-outer {
+        pointer-events: none;
+        z-index: 3;
+        position: relative;
+        display: flex;
+    }
+    .Linsday-Stalzer-1 {
+        position: relative;
+        z-index: 7;
+        pointer-events: none;
+        margin-left: 207px;
+        width: 125px;
+        min-width: 125px;
+        margin-top: -943px;
+        margin-bottom: 916px;
+        min-height: 27px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 16px;
+        letter-spacing: 0.048000001907348634px;
+        line-height: 27px;
+    }
+    .Linsday-Stalzer-1-outer {
+        pointer-events: none;
+        z-index: 7;
+        position: relative;
+        display: flex;
+    }
+    .These-athletes-are-p-2 {
+        position: relative;
+        z-index: 8;
+        pointer-events: none;
+        margin-left: 207px;
+        width: 772px;
+        min-width: 772px;
+        margin-top: -903px;
+        margin-bottom: 797px;
+        min-height: 106px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(216, 89, 53, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 48px;
+        line-height: 52.79999923706055px;
+    }
+    .These-athletes-are-p-2-outer {
+        pointer-events: none;
+        z-index: 8;
+        position: relative;
+        display: flex;
+    }
+    .Athletes-Unlimited-l-1 {
+        position: relative;
+        z-index: 9;
+        pointer-events: none;
+        margin-left: 207px;
+        width: 784px;
+        min-width: 784px;
+        margin-top: -735px;
+        margin-bottom: 627px;
+        min-height: 108px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 16px;
+        letter-spacing: 0.048000001907348634px;
+        line-height: 27px;
+    }
+    .Athletes-Unlimited-l-1-outer {
+        pointer-events: none;
+        z-index: 9;
+        position: relative;
+        display: flex;
+    }
+    .This-initiative-allo-1 {
+        position: relative;
+        z-index: 10;
+        pointer-events: none;
+        margin-left: 207px;
+        width: 763px;
+        min-width: 763px;
+        margin-top: -612px;
+        margin-bottom: 523px;
+        min-height: 89px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 16px;
+        letter-spacing: 0.048000001907348634px;
+        line-height: 27px;
+    }
+    .This-initiative-allo-1-outer {
+        pointer-events: none;
+        z-index: 10;
+        position: relative;
+        display: flex;
+    }
+    .Lorem-ipsum-dolor-si {
+        position: relative;
+        z-index: 11;
+        pointer-events: none;
+        margin-left: 207px;
+        width: 763px;
+        min-width: 763px;
+        margin-top: -516px;
+        margin-bottom: 337px;
+        min-height: 179px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 16px;
+        letter-spacing: 0.048000001907348634px;
+        line-height: 27px;
+    }
+    .Lorem-ipsum-dolor-si-outer {
+        pointer-events: none;
+        z-index: 11;
+        position: relative;
+        display: flex;
+    }
+    .as-they-play-for-the-1 {
+        position: relative;
+        z-index: 12;
+        pointer-events: none;
+        margin-left: 207px;
+        width: 758px;
+        min-width: 758px;
+        margin-top: -322px;
+        margin-bottom: 268px;
+        min-height: 54px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 24px;
+        letter-spacing: 0.07200000286102295px;
+        line-height: 27px;
+    }
+    .as-they-play-for-the-1-outer {
+        pointer-events: none;
+        z-index: 12;
+        position: relative;
+        display: flex;
+    }
+    .Rectangle-8 {
+        position: relative;
+        z-index: 4;
+        pointer-events: none;
+        margin-left: 207px;
+        width: 786px;
+        min-width: 786px;
+        height: 1px;
+        margin-top: -256px;
+        margin-bottom: 255px;
+        min-height: 1px;
+        background-color: rgba(204, 204, 204, 1);
+    }
+    .Rectangle-8-outer {
+        pointer-events: none;
+        z-index: 4;
+        position: relative;
+        display: flex;
+    }
+    .Rectangle-7 {
+        position: relative;
+        z-index: 18;
+        pointer-events: none;
+        margin-left: -517px;
+        width: 1997px;
+        min-width: 1997px;
+        height: 80px;
+        margin-top: -80px;
+        margin-bottom: 0px;
+        min-height: 80px;
+        background-color: rgba(231, 235, 238, 1);
+    }
+    .Rectangle-7-outer {
+        pointer-events: none;
+        z-index: 18;
+        position: relative;
+        display: flex;
+    }
+    .IMAGE-3 {
+        position: relative;
+        z-index: 19;
+        pointer-events: none;
+        margin-left: 116px;
+        width: 138px;
+        min-width: 138px;
+        height: 58px;
+        margin-top: -69px;
+        margin-bottom: 11px;
+        min-height: 58px;
+        content: url(../assets/images/article1/IMAGE_3.png?tid=1645035489057);
+    }
+    .IMAGE-3-outer {
+        pointer-events: none;
+        z-index: 19;
+        position: relative;
+        display: flex;
+    }
+    .Frame-7 {
+        position: relative;
+        z-index: 21;
+        pointer-events: none;
+        margin-left: 867px;
+        width: 27px;
+        min-width: 27px;
+        height: 25px;
+        margin-top: -53px;
+        margin-bottom: 28px;
+        min-height: 25px;
+        overflow: hidden;
+    }
+    .Frame-7-outer {
+        pointer-events: none;
+        z-index: 21;
+        position: relative;
+        display: flex;
+    }
+    .Vector-4 {
+        position: relative;
+        z-index: 22;
+        pointer-events: none;
+        margin-left: 25.925925925925895%;
+        width: 46.888888888888836%;
+        height: 46.88%;
+        margin-top: 25.925925925925895%;
+        content: url(../assets/images/article1/Vector_4.png?tid=1645035489057);
+    }
+    .Vector-4-outer {
+        pointer-events: none;
+        z-index: 22;
+        position: absolute;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+    .Frame-4 {
+        position: relative;
+        z-index: 30;
+        pointer-events: none;
+        margin-left: 1046px;
+        width: 29px;
+        min-width: 29px;
+        height: 25px;
+        margin-top: -52px;
+        margin-bottom: 27px;
+        min-height: 25px;
+        overflow: hidden;
+    }
+    .Frame-4-outer {
+        pointer-events: none;
+        z-index: 30;
+        position: relative;
+        display: flex;
+    }
+    .Vector-1 {
+        position: relative;
+        z-index: 31;
+        pointer-events: none;
+        margin-left: 27.586206896551648%;
+        width: 46.86206896551711%;
+        height: 33.28%;
+        margin-top: 27.586206896551648%;
+        content: url(../assets/images/article1/Vector_1.png?tid=1645035489057);
+    }
+    .Vector-1-outer {
+        pointer-events: none;
+        z-index: 31;
+        position: absolute;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+    .Frame-5 {
+        position: relative;
+        z-index: 27;
+        pointer-events: none;
+        margin-left: 986px;
+        width: 29px;
+        min-width: 29px;
+        height: 25px;
+        margin-top: -52px;
+        margin-bottom: 27px;
+        min-height: 25px;
+        overflow: hidden;
+    }
+    .Frame-5-outer {
+        pointer-events: none;
+        z-index: 27;
+        position: relative;
+        display: flex;
+    }
+    .Vector-2 {
+        position: relative;
+        z-index: 28;
+        pointer-events: none;
+        margin-left: 24.137931034482758%;
+        width: 50%;
+        height: 40.64%;
+        margin-top: 24.137931034482758%;
+        content: url(../assets/images/article1/Vector_2.png?tid=1645035489057);
+    }
+    .Vector-2-outer {
+        pointer-events: none;
+        z-index: 28;
+        position: absolute;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+    .Frame-6 {
+        position: relative;
+        z-index: 24;
+        pointer-events: none;
+        margin-left: 923px;
+        width: 34px;
+        min-width: 34px;
+        height: 25px;
+        margin-top: -52px;
+        margin-bottom: 27px;
+        min-height: 25px;
+        overflow: hidden;
+    }
+    .Frame-6-outer {
+        pointer-events: none;
+        z-index: 24;
+        position: relative;
+        display: flex;
+    }
+    .Vector-3 {
+        position: relative;
+        z-index: 25;
+        pointer-events: none;
+        margin-left: 38.23529411764707%;
+        width: 24.205882352941188%;
+        height: 46.88%;
+        margin-top: 20.588235294117656%;
+        content: url(../assets/images/article1/Vector_3.png?tid=1645035489057);
+    }
+    .Vector-3-outer {
+        pointer-events: none;
+        z-index: 25;
+        position: absolute;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+    .Frame-3 {
+        position: relative;
+        z-index: 33;
+        pointer-events: none;
+        margin-left: 1106px;
+        width: 27px;
+        min-width: 27px;
+        height: 23px;
+        margin-top: -51px;
+        margin-bottom: 28px;
+        min-height: 23px;
+        overflow: hidden;
+    }
+    .Frame-3-outer {
+        pointer-events: none;
+        z-index: 33;
+        position: relative;
+        display: flex;
+    }
+    .Vector {
+        position: relative;
+        z-index: 34;
+        pointer-events: none;
+        margin-left: 29.62962962962966%;
+        width: 40.629629629629676%;
+        height: 40.608695652173914%;
+        margin-top: 22.222222222222246%;
+        content: url(../assets/images/article1/Vector.png?tid=1645035489057);
+    }
+    .Vector-outer {
+        pointer-events: none;
+        z-index: 34;
+        position: absolute;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+    .Rectangle-2 {
+        position: relative;
+        z-index: 32;
+        pointer-events: none;
+        margin-left: 1097px;
+        width: 48px;
+        min-width: 48px;
+        height: 22px;
+        margin-top: -51px;
+        margin-bottom: 29px;
+        min-height: 22px;
+        background-color: rgba(9, 118, 180, 1);
+    }
+    .Rectangle-2-outer {
+        pointer-events: none;
+        z-index: 32;
+        position: relative;
+        display: flex;
+    }
+    .Rectangle-3 {
+        position: relative;
+        z-index: 29;
+        pointer-events: none;
+        margin-left: 1037px;
+        width: 48px;
+        min-width: 48px;
+        height: 22px;
+        margin-top: -51px;
+        margin-bottom: 29px;
+        min-height: 22px;
+        background-color: rgba(229, 45, 39, 1);
+    }
+    .Rectangle-3-outer {
+        pointer-events: none;
+        z-index: 29;
+        position: relative;
+        display: flex;
+    }
+    .Rectangle-4 {
+        position: relative;
+        z-index: 26;
+        pointer-events: none;
+        margin-left: 976px;
+        width: 48px;
+        min-width: 48px;
+        height: 22px;
+        margin-top: -51px;
+        margin-bottom: 29px;
+        min-height: 22px;
+        background-color: rgba(85, 172, 238, 1);
+    }
+    .Rectangle-4-outer {
+        pointer-events: none;
+        z-index: 26;
+        position: relative;
+        display: flex;
+    }
+    .Rectangle-5 {
+        position: relative;
+        z-index: 23;
+        pointer-events: none;
+        margin-left: 916px;
+        width: 48px;
+        min-width: 48px;
+        height: 22px;
+        margin-top: -51px;
+        margin-bottom: 29px;
+        min-height: 22px;
+        background-color: rgba(59, 89, 152, 1);
+    }
+    .Rectangle-5-outer {
+        pointer-events: none;
+        z-index: 23;
+        position: relative;
+        display: flex;
+    }
+    .Rectangle-6 {
+        position: relative;
+        z-index: 20;
+        pointer-events: none;
+        margin-left: 856px;
+        width: 48px;
+        min-width: 48px;
+        height: 22px;
+        margin-top: -51px;
+        margin-bottom: 29px;
+        min-height: 22px;
+        background-color: rgba(228, 64, 95, 1);
+    }
+    .Rectangle-6-outer {
+        pointer-events: none;
+        z-index: 20;
+        position: relative;
+        display: flex;
+    }
+}

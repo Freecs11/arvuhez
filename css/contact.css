@@ -1,0 +1,1672 @@
+.websiteBody {
+    margin: 0;
+}
+
+@media screen and (min-width:0px) and (max-width:450px) {
+    .Page {
+        display: block;
+        margin: auto;
+        width: 100%;
+        height: auto;
+        pointer-events: auto;
+    }
+    .Page-outer {
+        pointer-events: none;
+        z-index: 1;
+    }
+    .Frame {
+        position: relative;
+        z-index: 38;
+        pointer-events: none;
+        width: 100%;
+        margin-left: 0;
+        height: 2328px;
+        min-width: 200px;
+        max-width: 400px;
+        margin: auto;
+        background-color: rgba(255, 255, 255, 1);
+        overflow: hidden;
+    }
+    .Frame-outer {
+        pointer-events: none;
+        z-index: 38;
+    }
+    .IMAGE-4 {
+        position: relative;
+        z-index: 44;
+        pointer-events: auto;
+        cursor: pointer;
+        min-width: 80px;
+        min-height: 34px;
+        content: url(../assets/images/contact/IMAGE_4.png?tid=1645033324456);
+        width: 100%;
+        height: 100%;
+    }
+    .IMAGE-4-outer {
+        pointer-events: none;
+        z-index: 44;
+        position: relative;
+        display: flex;
+    }
+    .IMAGE-4-url {
+        text-decoration: none;
+        margin-left: 33px;
+        width: 80px;
+        height: 34px;
+        margin-top: 13px;
+        margin-bottom: 2281px;
+    }
+    .contact-us {
+        position: relative;
+        z-index: 48;
+        pointer-events: auto;
+        cursor: pointer;
+        min-width: 39px;
+        min-height: 22px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 5px;
+        line-height: 12px;
+    }
+    .contact-us-outer {
+        pointer-events: none;
+        z-index: 48;
+        position: relative;
+        display: flex;
+    }
+    .contact-us-url {
+        text-decoration: none;
+        margin-left: 303px;
+        width: 39px;
+        margin-top: -2303px;
+        margin-bottom: 2281px;
+    }
+    .PODCASTS {
+        position: relative;
+        z-index: 47;
+        pointer-events: auto;
+        cursor: pointer;
+        min-width: 37px;
+        min-height: 22px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 5px;
+        line-height: 12px;
+    }
+    .PODCASTS-outer {
+        pointer-events: none;
+        z-index: 47;
+        position: relative;
+        display: flex;
+    }
+    .PODCASTS-url {
+        text-decoration: none;
+        margin-left: 262px;
+        width: 37px;
+        margin-top: -2303px;
+        margin-bottom: 2281px;
+    }
+    .BLOG {
+        position: relative;
+        z-index: 46;
+        pointer-events: auto;
+        cursor: pointer;
+        min-width: 20px;
+        min-height: 22px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 5px;
+        line-height: 12px;
+    }
+    .BLOG-outer {
+        pointer-events: none;
+        z-index: 46;
+        position: relative;
+        display: flex;
+    }
+    .BLOG-url {
+        text-decoration: none;
+        margin-left: 238px;
+        width: 20px;
+        margin-top: -2303px;
+        margin-bottom: 2281px;
+    }
+    .Home {
+        position: relative;
+        z-index: 45;
+        pointer-events: auto;
+        cursor: pointer;
+        min-width: 25px;
+        min-height: 22px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 5px;
+        line-height: 12px;
+    }
+    .Home-outer {
+        pointer-events: none;
+        z-index: 45;
+        position: relative;
+        display: flex;
+    }
+    .Home-url {
+        text-decoration: none;
+        margin-left: 209px;
+        width: 25px;
+        margin-top: -2303px;
+        margin-bottom: 2281px;
+    }
+    .IMAGE-5 {
+        position: relative;
+        z-index: 39;
+        pointer-events: none;
+        margin-left: 0px;
+        width: 400px;
+        min-width: 400px;
+        height: 538px;
+        margin-top: -2262px;
+        margin-bottom: 1724px;
+        min-height: 538px;
+        content: url(../assets/images/contact/IMAGE_5.png?tid=1645033324456);
+    }
+    .IMAGE-5-outer {
+        pointer-events: none;
+        z-index: 39;
+        position: relative;
+        display: flex;
+    }
+    .Contact-us {
+        position: relative;
+        z-index: 40;
+        pointer-events: none;
+        margin-left: 93px;
+        width: 249px;
+        min-width: 249px;
+        margin-top: -2002px;
+        margin-bottom: 1871px;
+        min-height: 131px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(255, 255, 255, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 38px;
+        line-height: 52.79999923706055px;
+    }
+    .Contact-us-outer {
+        pointer-events: none;
+        z-index: 40;
+        position: relative;
+        display: flex;
+    }
+    .IMAGE-3 {
+        position: relative;
+        z-index: 49;
+        pointer-events: none;
+        margin-left: 50px;
+        width: 299.15px;
+        min-width: 299.15px;
+        height: 266.99px;
+        margin-top: -1708px;
+        margin-bottom: 1441.01px;
+        min-height: 266.99px;
+        content: url(../assets/images/contact/IMAGE_3.png?tid=1645033324456);
+    }
+    .IMAGE-3-outer {
+        pointer-events: none;
+        z-index: 49;
+        position: relative;
+        display: flex;
+    }
+    .Where-to-find-us-- {
+        position: relative;
+        z-index: 50;
+        pointer-events: none;
+        margin-left: 93px;
+        width: 249px;
+        min-width: 249px;
+        margin-top: -1425px;
+        margin-bottom: 1392px;
+        min-height: 33px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(28, 142, 203, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 22px;
+        letter-spacing: 0.1452000057697296px;
+        line-height: 33px;
+    }
+    .Where-to-find-us---outer {
+        pointer-events: none;
+        z-index: 50;
+        position: relative;
+        display: flex;
+    }
+    .Mail---arvuhez-gmail {
+        position: relative;
+        z-index: 51;
+        pointer-events: none;
+        margin-left: 93px;
+        width: 1000px;
+        min-width: 1000px;
+        margin-top: -1373px;
+        margin-bottom: 1319px;
+        min-height: 54px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(73, 88, 101, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 15px;
+        letter-spacing: 0.04500000178813934px;
+        line-height: 27px;
+    }
+    .Mail---arvuhez-gmail-outer {
+        pointer-events: none;
+        z-index: 51;
+        position: relative;
+        display: flex;
+    }
+    .On-Campus {
+        position: relative;
+        z-index: 56;
+        pointer-events: none;
+        margin-left: 117px;
+        width: 189px;
+        min-width: 189px;
+        margin-top: -1192px;
+        margin-bottom: 1159px;
+        min-height: 33px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(28, 142, 203, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 22px;
+        letter-spacing: 0.1452000057697296px;
+        line-height: 33px;
+    }
+    .On-Campus-outer {
+        pointer-events: none;
+        z-index: 56;
+        position: relative;
+        display: flex;
+    }
+    .IMAGE-2 {
+        position: relative;
+        z-index: 52;
+        pointer-events: none;
+        margin-left: 11px;
+        width: 377.98px;
+        min-width: 377.98px;
+        height: 355.24px;
+        margin-top: -1087px;
+        margin-bottom: 731.76px;
+        min-height: 355.24px;
+        content: url(../assets/images/contact/IMAGE_2.png?tid=1645033324456);
+    }
+    .IMAGE-2-outer {
+        pointer-events: none;
+        z-index: 52;
+        position: relative;
+        display: flex;
+    }
+    .Villejean---tage-2-- {
+        position: relative;
+        z-index: 53;
+        pointer-events: none;
+        margin-left: 29px;
+        width: 1000px;
+        min-width: 1000px;
+        margin-top: -709px;
+        margin-bottom: 682px;
+        min-height: 27px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(73, 88, 101, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 15px;
+        letter-spacing: 0.04500000178813934px;
+        line-height: 27px;
+    }
+    .Villejean---tage-2---outer {
+        pointer-events: none;
+        z-index: 53;
+        position: relative;
+        display: flex;
+    }
+    .IMAGE-1 {
+        position: relative;
+        z-index: 54;
+        pointer-events: none;
+        margin-left: 11px;
+        width: 377.98px;
+        min-width: 377.98px;
+        height: 355.24px;
+        margin-top: -638px;
+        margin-bottom: 282.76px;
+        min-height: 355.24px;
+        content: url(../assets/images/contact/IMAGE_1.png?tid=1645033324456);
+    }
+    .IMAGE-1-outer {
+        pointer-events: none;
+        z-index: 54;
+        position: relative;
+        display: flex;
+    }
+    .Beaulieu--b-timent-2 {
+        position: relative;
+        z-index: 55;
+        pointer-events: none;
+        margin-left: 29px;
+        width: 353px;
+        min-width: 353px;
+        margin-top: -283px;
+        margin-bottom: 199px;
+        min-height: 84px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(73, 88, 101, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 15px;
+        letter-spacing: 0.04500000178813934px;
+        line-height: 27px;
+    }
+    .Beaulieu--b-timent-2-outer {
+        pointer-events: none;
+        z-index: 55;
+        position: relative;
+        display: flex;
+    }
+    .Rectangle {
+        position: relative;
+        z-index: 57;
+        pointer-events: none;
+        margin-left: -420px;
+        width: 1239px;
+        min-width: 1239px;
+        height: 81px;
+        margin-top: -70px;
+        margin-bottom: -11px;
+        min-height: 81px;
+        background-color: rgba(231, 235, 238, 1);
+    }
+    .Rectangle-outer {
+        pointer-events: none;
+        z-index: 57;
+        position: relative;
+        display: flex;
+    }
+    .IMAGE {
+        position: relative;
+        z-index: 58;
+        pointer-events: none;
+        margin-left: 135px;
+        width: 138px;
+        min-width: 138px;
+        height: 59px;
+        margin-top: -59px;
+        margin-bottom: 0px;
+        min-height: 59px;
+        content: url(../assets/images/contact/IMAGE.png?tid=1645033324456);
+    }
+    .IMAGE-outer {
+        pointer-events: none;
+        z-index: 58;
+        position: relative;
+        display: flex;
+    }
+    .Frame-1 {
+        position: relative;
+        z-index: 41;
+        pointer-events: none;
+        margin-left: 88.5%;
+        width: 3.25%;
+        height: 0.2551546391752577%;
+        margin-top: 3%;
+        border: 1px solid rgba(108, 93, 93, 1);
+        overflow: hidden;
+    }
+    .Frame-1-outer {
+        pointer-events: none;
+        z-index: 41;
+        position: absolute;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+    .Vector {
+        position: relative;
+        z-index: 43;
+        pointer-events: none;
+        margin-left: 15.384615384615397%;
+        width: 60.00000000000005%;
+        height: 59.93265993265993%;
+        margin-top: 7.692307692307699%;
+        content: url(../assets/images/contact/Vector.png?tid=1645033324456);
+    }
+    .Vector-outer {
+        pointer-events: none;
+        z-index: 43;
+        position: absolute;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+    .Vector-1 {
+        position: relative;
+        z-index: 42;
+        pointer-events: none;
+        margin-left: 61.53846153846152%;
+        width: 25.999999999999993%;
+        height: 24.579124579124578%;
+        margin-top: 30.76923076923076%;
+        content: url(../assets/images/contact/Vector_1.png?tid=1645033324456);
+    }
+    .Vector-1-outer {
+        pointer-events: none;
+        z-index: 42;
+        position: absolute;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+    .Frame-2 {
+        display: none;
+    }
+    .Frame-2-outer {
+        display: none;
+    }
+    .IMAGE-7 {
+        display: none;
+    }
+    .IMAGE-7-outer {
+        display: none;
+    }
+    .Frame-8 {
+        display: none;
+    }
+    .Frame-8-outer {
+        display: none;
+    }
+    .Vector-7 {
+        display: none;
+    }
+    .Vector-7-outer {
+        display: none;
+    }
+    .Vector-8 {
+        display: none;
+    }
+    .Vector-8-outer {
+        display: none;
+    }
+    .contact-us-1 {
+        display: none;
+    }
+    .contact-us-1-outer {
+        display: none;
+    }
+    .PODCASTS-1 {
+        display: none;
+    }
+    .PODCASTS-1-outer {
+        display: none;
+    }
+    .BLOG-1 {
+        display: none;
+    }
+    .BLOG-1-outer {
+        display: none;
+    }
+    .Home-1 {
+        display: none;
+    }
+    .Home-1-outer {
+        display: none;
+    }
+    .IMAGE-11 {
+        display: none;
+    }
+    .IMAGE-11-outer {
+        display: none;
+    }
+    .Contact-us-1 {
+        display: none;
+    }
+    .Contact-us-1-outer {
+        display: none;
+    }
+    .IMAGE-10 {
+        display: none;
+    }
+    .IMAGE-10-outer {
+        display: none;
+    }
+    .Where-to-find-us---1 {
+        display: none;
+    }
+    .Where-to-find-us---1-outer {
+        display: none;
+    }
+    .Mail---arvuhez-gmail-1 {
+        display: none;
+    }
+    .Mail---arvuhez-gmail-1-outer {
+        display: none;
+    }
+    .On-Campus-1 {
+        display: none;
+    }
+    .On-Campus-1-outer {
+        display: none;
+    }
+    .IMAGE-9 {
+        display: none;
+    }
+    .IMAGE-9-outer {
+        display: none;
+    }
+    .Villejean---tage-2---1 {
+        display: none;
+    }
+    .Villejean---tage-2---1-outer {
+        display: none;
+    }
+    .IMAGE-8 {
+        display: none;
+    }
+    .IMAGE-8-outer {
+        display: none;
+    }
+    .Beaulieu--b-timent-2-1 {
+        display: none;
+    }
+    .Beaulieu--b-timent-2-1-outer {
+        display: none;
+    }
+    .Rectangle-6 {
+        display: none;
+    }
+    .Rectangle-6-outer {
+        display: none;
+    }
+    .IMAGE-6 {
+        display: none;
+    }
+    .IMAGE-6-outer {
+        display: none;
+    }
+    .Frame-7 {
+        display: none;
+    }
+    .Frame-7-outer {
+        display: none;
+    }
+    .Vector-6 {
+        display: none;
+    }
+    .Vector-6-outer {
+        display: none;
+    }
+    .Frame-4 {
+        display: none;
+    }
+    .Frame-4-outer {
+        display: none;
+    }
+    .Vector-3 {
+        display: none;
+    }
+    .Vector-3-outer {
+        display: none;
+    }
+    .Frame-5 {
+        display: none;
+    }
+    .Frame-5-outer {
+        display: none;
+    }
+    .Vector-4 {
+        display: none;
+    }
+    .Vector-4-outer {
+        display: none;
+    }
+    .Frame-6 {
+        display: none;
+    }
+    .Frame-6-outer {
+        display: none;
+    }
+    .Vector-5 {
+        display: none;
+    }
+    .Vector-5-outer {
+        display: none;
+    }
+    .Frame-3 {
+        display: none;
+    }
+    .Frame-3-outer {
+        display: none;
+    }
+    .Vector-2 {
+        display: none;
+    }
+    .Vector-2-outer {
+        display: none;
+    }
+    .Rectangle-1 {
+        display: none;
+    }
+    .Rectangle-1-outer {
+        display: none;
+    }
+    .Rectangle-2 {
+        display: none;
+    }
+    .Rectangle-2-outer {
+        display: none;
+    }
+    .Rectangle-3 {
+        display: none;
+    }
+    .Rectangle-3-outer {
+        display: none;
+    }
+    .Rectangle-4 {
+        display: none;
+    }
+    .Rectangle-4-outer {
+        display: none;
+    }
+    .Rectangle-5 {
+        display: none;
+    }
+    .Rectangle-5-outer {
+        display: none;
+    }
+}
+
+@media screen and (min-width:450px) {
+    .Page {
+        display: block;
+        margin: auto;
+        width: 100%;
+        height: auto;
+        pointer-events: auto;
+    }
+    .Page-outer {
+        pointer-events: none;
+        z-index: 1;
+    }
+    .Frame {
+        display: none;
+    }
+    .Frame-outer {
+        display: none;
+    }
+    .IMAGE-4 {
+        display: none;
+    }
+    .IMAGE-4-outer {
+        display: none;
+    }
+    .contact-us {
+        display: none;
+    }
+    .contact-us-outer {
+        display: none;
+    }
+    .PODCASTS {
+        display: none;
+    }
+    .PODCASTS-outer {
+        display: none;
+    }
+    .BLOG {
+        display: none;
+    }
+    .BLOG-outer {
+        display: none;
+    }
+    .Home {
+        display: none;
+    }
+    .Home-outer {
+        display: none;
+    }
+    .IMAGE-5 {
+        display: none;
+    }
+    .IMAGE-5-outer {
+        display: none;
+    }
+    .Contact-us {
+        display: none;
+    }
+    .Contact-us-outer {
+        display: none;
+    }
+    .IMAGE-3 {
+        display: none;
+    }
+    .IMAGE-3-outer {
+        display: none;
+    }
+    .Where-to-find-us-- {
+        display: none;
+    }
+    .Where-to-find-us---outer {
+        display: none;
+    }
+    .Mail---arvuhez-gmail {
+        display: none;
+    }
+    .Mail---arvuhez-gmail-outer {
+        display: none;
+    }
+    .On-Campus {
+        display: none;
+    }
+    .On-Campus-outer {
+        display: none;
+    }
+    .IMAGE-2 {
+        display: none;
+    }
+    .IMAGE-2-outer {
+        display: none;
+    }
+    .Villejean---tage-2-- {
+        display: none;
+    }
+    .Villejean---tage-2---outer {
+        display: none;
+    }
+    .IMAGE-1 {
+        display: none;
+    }
+    .IMAGE-1-outer {
+        display: none;
+    }
+    .Beaulieu--b-timent-2 {
+        display: none;
+    }
+    .Beaulieu--b-timent-2-outer {
+        display: none;
+    }
+    .Rectangle {
+        display: none;
+    }
+    .Rectangle-outer {
+        display: none;
+    }
+    .IMAGE {
+        display: none;
+    }
+    .IMAGE-outer {
+        display: none;
+    }
+    .Frame-1 {
+        display: none;
+    }
+    .Frame-1-outer {
+        display: none;
+    }
+    .Vector {
+        display: none;
+    }
+    .Vector-outer {
+        display: none;
+    }
+    .Vector-1 {
+        display: none;
+    }
+    .Vector-1-outer {
+        display: none;
+    }
+    .Frame-2 {
+        position: relative;
+        z-index: 2;
+        pointer-events: none;
+        width: 100%;
+        margin-left: 0;
+        height: 2037px;
+        min-width: 450px;
+        max-width: 1200px;
+        margin: auto;
+        background-color: rgba(255, 255, 255, 1);
+        overflow: hidden;
+    }
+    .Frame-2-outer {
+        pointer-events: none;
+        z-index: 2;
+    }
+    .IMAGE-7 {
+        position: relative;
+        z-index: 16;
+        pointer-events: none;
+        margin-left: 91px;
+        width: 130px;
+        min-width: 130px;
+        height: 55px;
+        margin-top: 35px;
+        margin-bottom: 1947px;
+        min-height: 55px;
+        content: url(../assets/images/contact/IMAGE_7.png?tid=1645033324456);
+    }
+    .IMAGE-7-outer {
+        pointer-events: none;
+        z-index: 16;
+        position: relative;
+        display: flex;
+    }
+    .Frame-8 {
+        position: relative;
+        z-index: 13;
+        pointer-events: none;
+        margin-left: 1072px;
+        width: 19px;
+        min-width: 19px;
+        height: 19px;
+        margin-top: -1984px;
+        margin-bottom: 1965px;
+        min-height: 19px;
+        border: 1px solid rgba(108, 93, 93, 1);
+        overflow: hidden;
+    }
+    .Frame-8-outer {
+        pointer-events: none;
+        z-index: 13;
+        position: relative;
+        display: flex;
+    }
+    .Vector-7 {
+        position: relative;
+        z-index: 15;
+        pointer-events: none;
+        margin-left: 15.789473684210604%;
+        width: 60.00000000000029%;
+        height: 60%;
+        margin-top: 15.789473684210604%;
+        content: url(../assets/images/contact/Vector_7.png?tid=1645033324456);
+    }
+    .Vector-7-outer {
+        pointer-events: none;
+        z-index: 15;
+        position: absolute;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+    .Vector-8 {
+        position: relative;
+        z-index: 14;
+        pointer-events: none;
+        margin-left: 63.15789473684228%;
+        width: 26.000000000000075%;
+        height: 24.68421052631579%;
+        margin-top: 63.15789473684228%;
+        content: url(../assets/images/contact/Vector_8.png?tid=1645033324456);
+    }
+    .Vector-8-outer {
+        pointer-events: none;
+        z-index: 14;
+        position: absolute;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+    .contact-us-1 {
+        position: relative;
+        z-index: 20;
+        pointer-events: auto;
+        cursor: pointer;
+        min-width: 85px;
+        min-height: 12px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .contact-us-1-outer {
+        pointer-events: none;
+        z-index: 20;
+        position: relative;
+        display: flex;
+    }
+    .contact-us-1-url {
+        text-decoration: none;
+        margin-left: 943px;
+        width: 85px;
+        margin-top: -1982px;
+        margin-bottom: 1970px;
+    }
+    .PODCASTS-1 {
+        position: relative;
+        z-index: 19;
+        pointer-events: auto;
+        cursor: pointer;
+        min-width: 69px;
+        min-height: 12px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .PODCASTS-1-outer {
+        pointer-events: none;
+        z-index: 19;
+        position: relative;
+        display: flex;
+    }
+    .PODCASTS-1-url {
+        text-decoration: none;
+        margin-left: 830px;
+        width: 69px;
+        margin-top: -1982px;
+        margin-bottom: 1970px;
+    }
+    .BLOG-1 {
+        position: relative;
+        z-index: 18;
+        pointer-events: auto;
+        cursor: pointer;
+        min-width: 37px;
+        min-height: 12px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .BLOG-1-outer {
+        pointer-events: none;
+        z-index: 18;
+        position: relative;
+        display: flex;
+    }
+    .BLOG-1-url {
+        text-decoration: none;
+        margin-left: 749px;
+        width: 37px;
+        margin-top: -1982px;
+        margin-bottom: 1970px;
+    }
+    .Home-1 {
+        position: relative;
+        z-index: 17;
+        pointer-events: auto;
+        cursor: pointer;
+        min-width: 48px;
+        min-height: 12px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(0, 0, 0, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .Home-1-outer {
+        pointer-events: none;
+        z-index: 17;
+        position: relative;
+        display: flex;
+    }
+    .Home-1-url {
+        text-decoration: none;
+        margin-left: 657px;
+        width: 48px;
+        margin-top: -1982px;
+        margin-bottom: 1970px;
+    }
+    .IMAGE-11 {
+        position: relative;
+        z-index: 3;
+        pointer-events: none;
+        margin-left: 0px;
+        width: 1200px;
+        min-width: 1200px;
+        height: 600px;
+        margin-top: -1912px;
+        margin-bottom: 1312px;
+        min-height: 600px;
+        content: url(../assets/images/contact/IMAGE_11.png?tid=1645033324456);
+    }
+    .IMAGE-11-outer {
+        pointer-events: none;
+        z-index: 3;
+        position: relative;
+        display: flex;
+    }
+    .Contact-us-1 {
+        position: relative;
+        z-index: 7;
+        pointer-events: none;
+        margin-left: 100px;
+        width: 649px;
+        min-width: 649px;
+        margin-top: -1649px;
+        margin-bottom: 1518px;
+        min-height: 131px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(255, 255, 255, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 72px;
+        line-height: 52.79999923706055px;
+    }
+    .Contact-us-1-outer {
+        pointer-events: none;
+        z-index: 7;
+        position: relative;
+        display: flex;
+    }
+    .IMAGE-10 {
+        position: relative;
+        z-index: 4;
+        pointer-events: none;
+        margin-left: 623px;
+        width: 436.61px;
+        min-width: 436.61px;
+        height: 389.68px;
+        margin-top: -1265px;
+        margin-bottom: 875.3199999999999px;
+        min-height: 389.68px;
+        content: url(../assets/images/contact/IMAGE_10.png?tid=1645033324456);
+    }
+    .IMAGE-10-outer {
+        pointer-events: none;
+        z-index: 4;
+        position: relative;
+        display: flex;
+    }
+    .Where-to-find-us---1 {
+        position: relative;
+        z-index: 8;
+        pointer-events: none;
+        margin-left: 100px;
+        width: 371px;
+        min-width: 371px;
+        margin-top: -1194px;
+        margin-bottom: 1161px;
+        min-height: 33px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(28, 142, 203, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 22px;
+        letter-spacing: 0.1452000057697296px;
+        line-height: 33px;
+    }
+    .Where-to-find-us---1-outer {
+        pointer-events: none;
+        z-index: 8;
+        position: relative;
+        display: flex;
+    }
+    .Mail---arvuhez-gmail-1 {
+        position: relative;
+        z-index: 9;
+        pointer-events: none;
+        margin-left: 100px;
+        width: 1000px;
+        min-width: 1000px;
+        margin-top: -1142px;
+        margin-bottom: 1088px;
+        min-height: 54px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(73, 88, 101, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 15px;
+        letter-spacing: 0.04500000178813934px;
+        line-height: 27px;
+    }
+    .Mail---arvuhez-gmail-1-outer {
+        pointer-events: none;
+        z-index: 9;
+        position: relative;
+        display: flex;
+    }
+    .On-Campus-1 {
+        position: relative;
+        z-index: 12;
+        pointer-events: none;
+        margin-left: 100px;
+        width: 973px;
+        min-width: 973px;
+        margin-top: -970px;
+        margin-bottom: 937px;
+        min-height: 33px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(28, 142, 203, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 22px;
+        letter-spacing: 0.1452000057697296px;
+        line-height: 33px;
+    }
+    .On-Campus-1-outer {
+        pointer-events: none;
+        z-index: 12;
+        position: relative;
+        display: flex;
+    }
+    .IMAGE-9 {
+        position: relative;
+        z-index: 5;
+        pointer-events: none;
+        margin-left: 100px;
+        width: 377.98px;
+        min-width: 377.98px;
+        height: 355.24px;
+        margin-top: -922px;
+        margin-bottom: 566.76px;
+        min-height: 355.24px;
+        content: url(../assets/images/contact/IMAGE_9.png?tid=1645033324456);
+    }
+    .IMAGE-9-outer {
+        pointer-events: none;
+        z-index: 5;
+        position: relative;
+        display: flex;
+    }
+    .Villejean---tage-2---1 {
+        position: relative;
+        z-index: 10;
+        pointer-events: none;
+        margin-left: 573px;
+        width: 1000px;
+        min-width: 1000px;
+        margin-top: -757px;
+        margin-bottom: 730px;
+        min-height: 27px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(73, 88, 101, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 15px;
+        letter-spacing: 0.04500000178813934px;
+        line-height: 27px;
+    }
+    .Villejean---tage-2---1-outer {
+        pointer-events: none;
+        z-index: 10;
+        position: relative;
+        display: flex;
+    }
+    .IMAGE-8 {
+        position: relative;
+        z-index: 6;
+        pointer-events: none;
+        margin-left: 663px;
+        width: 377.98px;
+        min-width: 377.98px;
+        height: 355.24px;
+        margin-top: -537px;
+        margin-bottom: 181.76px;
+        min-height: 355.24px;
+        content: url(../assets/images/contact/IMAGE_8.png?tid=1645033324456);
+    }
+    .IMAGE-8-outer {
+        pointer-events: none;
+        z-index: 6;
+        position: relative;
+        display: flex;
+    }
+    .Beaulieu--b-timent-2-1 {
+        position: relative;
+        z-index: 11;
+        pointer-events: none;
+        margin-left: 163px;
+        width: 1000px;
+        min-width: 1000px;
+        margin-top: -386px;
+        margin-bottom: 359px;
+        min-height: 27px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        color: rgba(73, 88, 101, 1);
+        font-style: normal;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 15px;
+        letter-spacing: 0.04500000178813934px;
+        line-height: 27px;
+    }
+    .Beaulieu--b-timent-2-1-outer {
+        pointer-events: none;
+        z-index: 11;
+        position: relative;
+        display: flex;
+    }
+    .Rectangle-6 {
+        position: relative;
+        z-index: 21;
+        pointer-events: none;
+        margin-left: -516px;
+        width: 1997px;
+        min-width: 1997px;
+        height: 80px;
+        margin-top: -80px;
+        margin-bottom: 0px;
+        min-height: 80px;
+        background-color: rgba(231, 235, 238, 1);
+    }
+    .Rectangle-6-outer {
+        pointer-events: none;
+        z-index: 21;
+        position: relative;
+        display: flex;
+    }
+    .IMAGE-6 {
+        position: relative;
+        z-index: 22;
+        pointer-events: none;
+        margin-left: 117px;
+        width: 138px;
+        min-width: 138px;
+        height: 58px;
+        margin-top: -69px;
+        margin-bottom: 11px;
+        min-height: 58px;
+        content: url(../assets/images/contact/IMAGE_6.png?tid=1645033324456);
+    }
+    .IMAGE-6-outer {
+        pointer-events: none;
+        z-index: 22;
+        position: relative;
+        display: flex;
+    }
+    .Frame-7 {
+        position: relative;
+        z-index: 24;
+        pointer-events: none;
+        margin-left: 868px;
+        width: 27px;
+        min-width: 27px;
+        height: 25px;
+        margin-top: -53px;
+        margin-bottom: 28px;
+        min-height: 25px;
+        overflow: hidden;
+    }
+    .Frame-7-outer {
+        pointer-events: none;
+        z-index: 24;
+        position: relative;
+        display: flex;
+    }
+    .Vector-6 {
+        position: relative;
+        z-index: 25;
+        pointer-events: none;
+        margin-left: 25.925925925925895%;
+        width: 46.888888888888836%;
+        height: 46.88%;
+        margin-top: 25.925925925925895%;
+        content: url(../assets/images/contact/Vector_6.png?tid=1645033324456);
+    }
+    .Vector-6-outer {
+        pointer-events: none;
+        z-index: 25;
+        position: absolute;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+    .Frame-4 {
+        position: relative;
+        z-index: 33;
+        pointer-events: none;
+        margin-left: 1047px;
+        width: 29px;
+        min-width: 29px;
+        height: 25px;
+        margin-top: -52px;
+        margin-bottom: 27px;
+        min-height: 25px;
+        overflow: hidden;
+    }
+    .Frame-4-outer {
+        pointer-events: none;
+        z-index: 33;
+        position: relative;
+        display: flex;
+    }
+    .Vector-3 {
+        position: relative;
+        z-index: 34;
+        pointer-events: none;
+        margin-left: 27.586206896551648%;
+        width: 46.86206896551711%;
+        height: 33.28%;
+        margin-top: 27.586206896551648%;
+        content: url(../assets/images/contact/Vector_3.png?tid=1645033324456);
+    }
+    .Vector-3-outer {
+        pointer-events: none;
+        z-index: 34;
+        position: absolute;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+    .Frame-5 {
+        position: relative;
+        z-index: 30;
+        pointer-events: none;
+        margin-left: 987px;
+        width: 29px;
+        min-width: 29px;
+        height: 25px;
+        margin-top: -52px;
+        margin-bottom: 27px;
+        min-height: 25px;
+        overflow: hidden;
+    }
+    .Frame-5-outer {
+        pointer-events: none;
+        z-index: 30;
+        position: relative;
+        display: flex;
+    }
+    .Vector-4 {
+        position: relative;
+        z-index: 31;
+        pointer-events: none;
+        margin-left: 24.137931034482758%;
+        width: 50%;
+        height: 40.64%;
+        margin-top: 24.137931034482758%;
+        content: url(../assets/images/contact/Vector_4.png?tid=1645033324456);
+    }
+    .Vector-4-outer {
+        pointer-events: none;
+        z-index: 31;
+        position: absolute;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+    .Frame-6 {
+        position: relative;
+        z-index: 27;
+        pointer-events: none;
+        margin-left: 924px;
+        width: 34px;
+        min-width: 34px;
+        height: 25px;
+        margin-top: -52px;
+        margin-bottom: 27px;
+        min-height: 25px;
+        overflow: hidden;
+    }
+    .Frame-6-outer {
+        pointer-events: none;
+        z-index: 27;
+        position: relative;
+        display: flex;
+    }
+    .Vector-5 {
+        position: relative;
+        z-index: 28;
+        pointer-events: none;
+        margin-left: 38.23529411764707%;
+        width: 24.205882352941188%;
+        height: 46.88%;
+        margin-top: 20.588235294117656%;
+        content: url(../assets/images/contact/Vector_5.png?tid=1645033324456);
+    }
+    .Vector-5-outer {
+        pointer-events: none;
+        z-index: 28;
+        position: absolute;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+    .Frame-3 {
+        position: relative;
+        z-index: 36;
+        pointer-events: none;
+        margin-left: 1107px;
+        width: 27px;
+        min-width: 27px;
+        height: 23px;
+        margin-top: -51px;
+        margin-bottom: 28px;
+        min-height: 23px;
+        overflow: hidden;
+    }
+    .Frame-3-outer {
+        pointer-events: none;
+        z-index: 36;
+        position: relative;
+        display: flex;
+    }
+    .Vector-2 {
+        position: relative;
+        z-index: 37;
+        pointer-events: none;
+        margin-left: 29.62962962962966%;
+        width: 40.629629629629676%;
+        height: 40.608695652173914%;
+        margin-top: 22.222222222222246%;
+        content: url(../assets/images/contact/Vector_2.png?tid=1645033324456);
+    }
+    .Vector-2-outer {
+        pointer-events: none;
+        z-index: 37;
+        position: absolute;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+    .Rectangle-1 {
+        position: relative;
+        z-index: 35;
+        pointer-events: none;
+        margin-left: 1098px;
+        width: 48px;
+        min-width: 48px;
+        height: 22px;
+        margin-top: -51px;
+        margin-bottom: 29px;
+        min-height: 22px;
+        background-color: rgba(9, 118, 180, 1);
+    }
+    .Rectangle-1-outer {
+        pointer-events: none;
+        z-index: 35;
+        position: relative;
+        display: flex;
+    }
+    .Rectangle-2 {
+        position: relative;
+        z-index: 32;
+        pointer-events: none;
+        margin-left: 1038px;
+        width: 48px;
+        min-width: 48px;
+        height: 22px;
+        margin-top: -51px;
+        margin-bottom: 29px;
+        min-height: 22px;
+        background-color: rgba(229, 45, 39, 1);
+    }
+    .Rectangle-2-outer {
+        pointer-events: none;
+        z-index: 32;
+        position: relative;
+        display: flex;
+    }
+    .Rectangle-3 {
+        position: relative;
+        z-index: 29;
+        pointer-events: none;
+        margin-left: 977px;
+        width: 48px;
+        min-width: 48px;
+        height: 22px;
+        margin-top: -51px;
+        margin-bottom: 29px;
+        min-height: 22px;
+        background-color: rgba(85, 172, 238, 1);
+    }
+    .Rectangle-3-outer {
+        pointer-events: none;
+        z-index: 29;
+        position: relative;
+        display: flex;
+    }
+    .Rectangle-4 {
+        position: relative;
+        z-index: 26;
+        pointer-events: none;
+        margin-left: 917px;
+        width: 48px;
+        min-width: 48px;
+        height: 22px;
+        margin-top: -51px;
+        margin-bottom: 29px;
+        min-height: 22px;
+        background-color: rgba(59, 89, 152, 1);
+    }
+    .Rectangle-4-outer {
+        pointer-events: none;
+        z-index: 26;
+        position: relative;
+        display: flex;
+    }
+    .Rectangle-5 {
+        position: relative;
+        z-index: 23;
+        pointer-events: none;
+        margin-left: 857px;
+        width: 48px;
+        min-width: 48px;
+        height: 22px;
+        margin-top: -51px;
+        margin-bottom: 29px;
+        min-height: 22px;
+        background-color: rgba(228, 64, 95, 1);
+    }
+    .Rectangle-5-outer {
+        pointer-events: none;
+        z-index: 23;
+        position: relative;
+        display: flex;
+    }
+}
