@@ -886,7 +886,7 @@
         margin-left: 0;
         height: 2037px;
         min-width: 450px;
-        max-width: 1200px;
+        max-width: 1262px;
         margin: auto;
         background-color: rgba(255, 255, 255, 1);
         overflow: hidden;
@@ -1103,7 +1103,7 @@
         z-index: 3;
         pointer-events: none;
         margin-left: 0px;
-        width: 1200px;
+        width: 1262px;
         min-width: 1200px;
         height: 600px;
         margin-top: -1912px;

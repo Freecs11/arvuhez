@@ -2529,7 +2529,7 @@
         margin-left: 0;
         height: 1915px;
         min-width: 450px;
-        max-width: 1200px;
+        max-width: 1262px;
         margin: auto;
         background-color: rgba(255, 255, 255, 1);
         overflow: hidden;
@@ -4097,9 +4097,9 @@
         position: relative;
         z-index: 69;
         pointer-events: none;
-        margin-left: -541px;
-        width: 1997px;
-        min-width: 1997px;
+        margin-left: -725px;
+        width: 1947px;
+        min-width: 1987px;
         height: 81px;
         margin-top: -81px;
         margin-bottom: 0px;
